@@ -1,0 +1,3 @@
+{"name":"T6_silent_proposer","seed":6,"n":10,"target_height":12,
+ "network":{"gst_ms":0,"pre_drop":0.0,"pre_dup":0.0,"dup":0.02},
+ "byzantine":{"1":["silent"]},"crash":{"2":800}}

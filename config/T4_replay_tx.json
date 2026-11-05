@@ -1,0 +1,5 @@
+{"name":"T4_replay_tx","seed":4,"n":10,"target_height":14,
+ "network":{"gst_ms":0,"pre_drop":0.0,"pre_dup":0.0,"dup":0.1},
+ "workload":{"count":9,"start_ms":0,"interval_ms":100,
+   "faults":[{"t":50,"type":"replay_tx","index":0},{"t":400,"type":"replay_tx","index":1},
+             {"t":3000,"type":"replay_tx","index":0},{"t":3500,"type":"replay_tx","index":2}]}}

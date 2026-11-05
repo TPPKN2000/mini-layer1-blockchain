@@ -1,0 +1,2 @@
+{"name":"T5_drop_delay_pre_gst","seed":5,"n":10,"target_height":6,
+ "network":{"gst_ms":6000,"pre_drop":0.35,"pre_dup":0.2,"pre_delay_max":1500,"dup":0.02}}

@@ -1,0 +1,5 @@
+{"name":"T3_bad_signature","seed":3,"n":10,"target_height":8,
+ "network":{"gst_ms":0,"pre_drop":0.0,"pre_dup":0.0,"dup":0.0},
+ "workload":{"count":12,"start_ms":0,"interval_ms":150,
+   "faults":[{"t":100,"type":"bad_sig"},{"t":200,"type":"wrong_domain"},{"t":300,"type":"not_owner"}]},
+ "byzantine":{"5":["bad_sig"]}}

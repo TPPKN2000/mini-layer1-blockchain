@@ -1,0 +1,22 @@
+{
+ "name": "T2_dup_reorder",
+ "seed": 2,
+ "n": 10,
+ "target_height": 8,
+ "network": {
+  "gst_ms": 0,
+  "pre_drop": 0.0,
+  "pre_dup": 0.3,
+  "dup": 0.3,
+  "delay_min": 1,
+  "delay_max": 300,
+  "pre_delay_max": 300,
+  "in_limit": 150,
+  "block_ms": 1500
+ },
+ "byzantine": {
+  "4": [
+   "replay"
+  ]
+ }
+}
