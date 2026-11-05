@@ -1,6 +1,5 @@
-# Lab 01 – MiniChain: a minimal BFT Layer 1 on a simulated unreliable network
+# Lab 01 – Minimal BFT Layer 1 on a simulated unreliable network
 
-Blockchain course 2026 – Knowledge Engineering Dept. (HCMUS).
 A deterministic discrete-event simulator of `n` validators that reach **finality** with a
 Tendermint-style two-phase protocol (PREVOTE / PRECOMMIT, locking, round timeouts) over a network
 that delays, reorders, duplicates and drops messages before GST.
